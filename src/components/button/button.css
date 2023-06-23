@@ -1,0 +1,7 @@
+.outlined {
+  @apply border border-solid flex items-center font-semibold p-2 border-gray-300 bg-white text-base;
+}
+
+.secondary {
+  @apply border border-solid flex items-center font-bold p-2 border-brands-primary bg-brands-primary text-base text-white;
+}
