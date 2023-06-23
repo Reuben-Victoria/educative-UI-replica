@@ -1,0 +1,3 @@
+.progressBar {
+  @apply inline-block h-3 w-3 rounded-full bg-gray-200;
+}
